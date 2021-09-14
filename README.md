@@ -10,7 +10,8 @@ If a method I create generates the problem within reasonable time, I commit it a
 next problem. However, sometimes it is clear that my solution could use quite some optimalisation.
 Below you will find a table listing the solutions I could improve on.
 
-| Problem | Reason                           |
-|---------|----------------------------------|
-| 6       | Currently bruteforcing.          |
-| 7       | Currently (almost) bruteforcing. |
+| Problem | Reason                                                   |
+|---------|----------------------------------------------------------|
+| 6       | Currently bruteforcing.                                  |
+| 7       | Currently (almost) bruteforcing.                         |
+| 9       | Better than bruteforcing, but still not quite efficient. |
