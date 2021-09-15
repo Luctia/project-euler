@@ -15,3 +15,4 @@ Below you will find a table listing the solutions I could improve on.
 | 6       | Currently bruteforcing.                                  |
 | 7       | Currently (almost) bruteforcing.                         |
 | 9       | Better than bruteforcing, but still not quite efficient. |
+| 206     | Currently "smartly" bruteforcing.                        |
